@@ -1,0 +1,7 @@
+ALL POSSIBLE RUNS (1)
+------------------------------
+RUN 1
+l1(13:1-2) List <int>
+l2(14:1-2) List <List <int>>
+a(15:1) int
+b(16:1) List <int>

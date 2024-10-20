@@ -1,0 +1,9 @@
+ALL POSSIBLE RUNS (1)
+------------------------------
+RUN 1
+l1(1:1-2) List <int>
+l2(2:1-2) List <string>
+l3(3:1-2) List <complex>
+x(5:1) complex
+y(6:1) List <string>
+z(7:1) List <int>

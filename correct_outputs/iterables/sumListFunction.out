@@ -1,0 +1,9 @@
+ALL POSSIBLE RUNS (2)
+------------------------------
+RUN 1
+suma(19:1-4) int
+suma2(20:1-5) List <>
+------------------------------
+RUN 2
+suma(19:1-4) int
+suma2(20:1-5) List <int>

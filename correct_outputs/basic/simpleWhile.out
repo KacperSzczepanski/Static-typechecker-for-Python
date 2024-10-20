@@ -1,0 +1,20 @@
+ALL POSSIBLE RUNS (3)
+------------------------------
+RUN 1
+a(1:1) int
+b(2:1) string
+c(3:1) float
+b(6:5) complex
+c(8:5) boolean
+------------------------------
+RUN 2
+a(1:1) int
+b(2:1) string
+c(3:1) float
+b(6:5) complex
+------------------------------
+RUN 3
+a(1:1) int
+b(2:1) string
+c(3:1) float
+c(8:5) boolean

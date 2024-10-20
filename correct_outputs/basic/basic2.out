@@ -1,0 +1,161 @@
+ALL POSSIBLE RUNS (16)
+------------------------------
+RUN 1
+a(1:1) int
+b(2:1) float
+c(3:1) complex
+d(4:1) boolean
+w(6:1) int
+x(7:1) complex
+y(8:1) int
+z(9:1) int
+------------------------------
+RUN 2
+a(1:1) int
+b(2:1) float
+c(3:1) complex
+d(4:1) boolean
+w(6:1) int
+x(7:1) complex
+y(8:1) int
+z(9:1) complex
+------------------------------
+RUN 3
+a(1:1) int
+b(2:1) float
+c(3:1) complex
+d(4:1) boolean
+w(6:1) int
+x(7:1) complex
+y(8:1) complex
+z(9:1) int
+------------------------------
+RUN 4
+a(1:1) int
+b(2:1) float
+c(3:1) complex
+d(4:1) boolean
+w(6:1) int
+x(7:1) complex
+y(8:1) complex
+z(9:1) complex
+------------------------------
+RUN 5
+a(1:1) int
+b(2:1) float
+c(3:1) complex
+d(4:1) boolean
+w(6:1) int
+x(7:1) boolean
+y(8:1) int
+z(9:1) int
+------------------------------
+RUN 6
+a(1:1) int
+b(2:1) float
+c(3:1) complex
+d(4:1) boolean
+w(6:1) int
+x(7:1) boolean
+y(8:1) int
+z(9:1) complex
+------------------------------
+RUN 7
+a(1:1) int
+b(2:1) float
+c(3:1) complex
+d(4:1) boolean
+w(6:1) int
+x(7:1) boolean
+y(8:1) boolean
+z(9:1) int
+------------------------------
+RUN 8
+a(1:1) int
+b(2:1) float
+c(3:1) complex
+d(4:1) boolean
+w(6:1) int
+x(7:1) boolean
+y(8:1) boolean
+z(9:1) complex
+------------------------------
+RUN 9
+a(1:1) int
+b(2:1) float
+c(3:1) complex
+d(4:1) boolean
+w(6:1) float
+x(7:1) complex
+y(8:1) float
+z(9:1) float
+------------------------------
+RUN 10
+a(1:1) int
+b(2:1) float
+c(3:1) complex
+d(4:1) boolean
+w(6:1) float
+x(7:1) complex
+y(8:1) float
+z(9:1) complex
+------------------------------
+RUN 11
+a(1:1) int
+b(2:1) float
+c(3:1) complex
+d(4:1) boolean
+w(6:1) float
+x(7:1) complex
+y(8:1) complex
+z(9:1) float
+------------------------------
+RUN 12
+a(1:1) int
+b(2:1) float
+c(3:1) complex
+d(4:1) boolean
+w(6:1) float
+x(7:1) complex
+y(8:1) complex
+z(9:1) complex
+------------------------------
+RUN 13
+a(1:1) int
+b(2:1) float
+c(3:1) complex
+d(4:1) boolean
+w(6:1) float
+x(7:1) boolean
+y(8:1) float
+z(9:1) float
+------------------------------
+RUN 14
+a(1:1) int
+b(2:1) float
+c(3:1) complex
+d(4:1) boolean
+w(6:1) float
+x(7:1) boolean
+y(8:1) float
+z(9:1) complex
+------------------------------
+RUN 15
+a(1:1) int
+b(2:1) float
+c(3:1) complex
+d(4:1) boolean
+w(6:1) float
+x(7:1) boolean
+y(8:1) boolean
+z(9:1) float
+------------------------------
+RUN 16
+a(1:1) int
+b(2:1) float
+c(3:1) complex
+d(4:1) boolean
+w(6:1) float
+x(7:1) boolean
+y(8:1) boolean
+z(9:1) complex

@@ -1,0 +1,13 @@
+ALL POSSIBLE RUNS (1)
+------------------------------
+RUN 1
+a(23:1) Point [complex,int]
+b(24:1) Point [int,float]
+c(25:1) Point [complex,float]
+d(26:1) Point2 [Point [complex,float]]
+e(27:1) Point2 [Point [complex,int]]
+f(28:1) Point [complex,float]
+g(30:1) float
+h(31:1) complex
+i(32:1) complex
+j(33:1) int

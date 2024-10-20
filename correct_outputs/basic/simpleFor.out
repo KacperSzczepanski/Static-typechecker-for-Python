@@ -1,0 +1,52 @@
+ALL POSSIBLE RUNS (6)
+------------------------------
+RUN 1
+l1(1:1-2) List <complex>
+i(3:5) complex
+i(4:5) string
+j(7:5) int
+k(7:8) int
+l(10:5) boolean
+n(16:5) string
+------------------------------
+RUN 2
+l1(1:1-2) List <complex>
+i(3:5) complex
+i(4:5) string
+j(7:5) int
+k(7:8) int
+n(16:5) string
+------------------------------
+RUN 3
+l1(1:1-2) List <complex>
+i(3:5) complex
+i(4:5) string
+j(7:5) float
+k(7:8) float
+l(10:5) boolean
+n(16:5) string
+------------------------------
+RUN 4
+l1(1:1-2) List <complex>
+i(3:5) complex
+i(4:5) string
+j(7:5) float
+k(7:8) float
+n(16:5) string
+------------------------------
+RUN 5
+l1(1:1-2) List <complex>
+i(3:5) complex
+i(4:5) string
+j(7:5) string
+k(7:8) string
+l(10:5) boolean
+n(16:5) string
+------------------------------
+RUN 6
+l1(1:1-2) List <complex>
+i(3:5) complex
+i(4:5) string
+j(7:5) string
+k(7:8) string
+n(16:5) string

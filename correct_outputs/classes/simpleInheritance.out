@@ -1,0 +1,35 @@
+ALL POSSIBLE RUNS (2)
+------------------------------
+RUN 1
+x(33:5) C3 [int,int]
+y(37:1) complex
+c1(39:1-2) C1 [int]
+c2(40:1-2) C2 [int]
+c3(41:1-2) C3 [int,float]
+a(43:1) complex
+b(44:1) int
+c(47:1) int
+d(48:1) string
+e(49:1) float
+f(50:1) int
+g(53:1) int
+h(54:1) complex
+i(55:1) float
+j(56:1) C1 [int]
+------------------------------
+RUN 2
+x(35:5) C2 [int]
+y(37:1) float
+c1(39:1-2) C1 [int]
+c2(40:1-2) C2 [int]
+c3(41:1-2) C3 [int,float]
+a(43:1) complex
+b(44:1) int
+c(47:1) int
+d(48:1) string
+e(49:1) float
+f(50:1) int
+g(53:1) int
+h(54:1) complex
+i(55:1) float
+j(56:1) C1 [int]

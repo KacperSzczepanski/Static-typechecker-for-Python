@@ -1,0 +1,15 @@
+ALL POSSIBLE RUNS (2)
+------------------------------
+RUN 1
+x(10:1) int
+y(11:1) int
+l1(12:1-2) List <string>
+l2(13:1-2) List <>
+l3(14:1-2) List <int>
+------------------------------
+RUN 2
+x(10:1) int
+y(11:1) float
+l1(12:1-2) List <string>
+l2(13:1-2) List <>
+l3(14:1-2) List <int>

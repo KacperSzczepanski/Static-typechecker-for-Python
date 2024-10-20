@@ -1,0 +1,37 @@
+ALL POSSIBLE RUNS (4)
+------------------------------
+RUN 1
+x1(10:1-2) float
+x2(11:1-2) string
+x3(12:1-2) float
+x4(13:1-2) complex
+x5(14:1-2) int
+x6(15:1-2) float
+y(17:1) float
+------------------------------
+RUN 2
+x1(10:1-2) float
+x2(11:1-2) string
+x3(12:1-2) float
+x4(13:1-2) complex
+x5(14:1-2) int
+x6(15:1-2) float
+y(17:1) int
+------------------------------
+RUN 3
+x1(10:1-2) float
+x2(11:1-2) string
+x3(12:1-2) float
+x4(13:1-2) complex
+x5(14:1-2) int
+x6(15:1-2) float
+y(17:1) complex
+------------------------------
+RUN 4
+x1(10:1-2) float
+x2(11:1-2) string
+x3(12:1-2) float
+x4(13:1-2) complex
+x5(14:1-2) int
+x6(15:1-2) float
+y(17:1) string
